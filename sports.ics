@@ -1,0 +1,1463 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportsCalendarBot//github-actions//EN
+X-WR-CALNAME:Otto's Sports Calendar
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Colorado Rockies at Chicago Cubs
+DTSTART:20260617T000500Z
+DTEND:20260617T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815781@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Colorado Rockies at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rockies at Chicago Cubs
+DTSTART:20260618T000500Z
+DTEND:20260618T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815796@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Colorado Rockies at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto Blue Jays at Chicago Cubs
+DTSTART:20260619T182000Z
+DTEND:20260619T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815820@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Toronto Blue Jays at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto Blue Jays at Chicago Cubs
+DTSTART:20260620T182000Z
+DTEND:20260620T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815833@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Toronto Blue Jays at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto Blue Jays at Chicago Cubs
+DTSTART:20260621T182000Z
+DTEND:20260621T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815848@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Toronto Blue Jays at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at New York Mets
+DTSTART:20260622T231000Z
+DTEND:20260623T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815854@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Citi Fie
+ ld\, Queens\, New York
+LOCATION:Citi Field\, Queens\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at New York Mets
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at New York Mets
+DTSTART:20260623T231000Z
+DTEND:20260624T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815867@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Citi Fie
+ ld\, Queens\, New York
+LOCATION:Citi Field\, Queens\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at New York Mets
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at New York Mets
+DTSTART:20260624T231000Z
+DTEND:20260625T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815882@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Citi Fie
+ ld\, Queens\, New York
+LOCATION:Citi Field\, Queens\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at New York Mets
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at New York Mets
+DTSTART:20260625T231000Z
+DTEND:20260626T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815897@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Citi Fie
+ ld\, Queens\, New York
+LOCATION:Citi Field\, Queens\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at New York Mets
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Milwaukee Brewers
+DTSTART:20260626T234000Z
+DTEND:20260627T024000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815914@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: Apple TV\nVenue: Americ
+ an Family Field\, Milwaukee\, Wisconsin
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Milwaukee Brewers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Milwaukee Brewers
+DTSTART:20260627T231000Z
+DTEND:20260628T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815929@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: American
+  Family Field\, Milwaukee\, Wisconsin
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Milwaukee Brewers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Milwaukee Brewers
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815944@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: American
+  Family Field\, Milwaukee\, Wisconsin
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Milwaukee Brewers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Padres at Chicago Cubs
+DTSTART:20260630T000500Z
+DTEND:20260630T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815959@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: San Diego Padres at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Padres at Chicago Cubs
+DTSTART:20260701T000500Z
+DTEND:20260701T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815973@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: San Diego Padres at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Padres at Chicago Cubs
+DTSTART:20260701T182000Z
+DTEND:20260701T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401815988@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: San Diego Padres at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis Cardinals at Chicago Cubs
+DTSTART:20260703T200500Z
+DTEND:20260703T230500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816007@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: St. Louis Cardinals at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis Cardinals at Chicago Cubs
+DTSTART:20260705T000800Z
+DTEND:20260705T030800Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816022@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: St. Louis Cardinals at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis Cardinals at Chicago Cubs
+DTSTART:20260705T183000Z
+DTEND:20260705T213000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816037@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: Peacock\nVenue: Wrigley
+  Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: St. Louis Cardinals at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Baltimore Orioles
+DTSTART:20260707T223500Z
+DTEND:20260708T013500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816055@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Oriole P
+ ark at Camden Yards\, Baltimore\, Maryland
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Baltimore Orioles
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Baltimore Orioles
+DTSTART:20260708T223500Z
+DTEND:20260709T013500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816070@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Oriole P
+ ark at Camden Yards\, Baltimore\, Maryland
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Baltimore Orioles
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Baltimore Orioles
+DTSTART:20260709T223500Z
+DTEND:20260710T013500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816085@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: ESPN Unlmtd\nVenue: Ori
+ ole Park at Camden Yards\, Baltimore\, Maryland
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Baltimore Orioles
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Cincinnati Reds
+DTSTART:20260710T231000Z
+DTEND:20260711T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816097@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Great Am
+ erican Ball Park\, Cincinnati\, Ohio
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Cincinnati Reds
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Cincinnati Reds
+DTSTART:20260711T231000Z
+DTEND:20260712T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816112@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: ESPN Unlmtd\nVenue: Gre
+ at American Ball Park\, Cincinnati\, Ohio
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Cincinnati Reds
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Cincinnati Reds
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816127@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Great Am
+ erican Ball Park\, Cincinnati\, Ohio
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Cincinnati Reds
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Twins at Chicago Cubs
+DTSTART:20260718T000500Z
+DTEND:20260718T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816149@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Minnesota Twins at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Twins at Chicago Cubs
+DTSTART:20260718T182000Z
+DTEND:20260718T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816164@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Minnesota Twins at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Twins at Chicago Cubs
+DTSTART:20260719T182000Z
+DTEND:20260719T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816179@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Minnesota Twins at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Chicago Cubs
+DTSTART:20260721T000500Z
+DTEND:20260721T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816193@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Chicago Cubs
+DTSTART:20260722T000500Z
+DTEND:20260722T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816208@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Chicago Cubs
+DTSTART:20260723T000500Z
+DTEND:20260723T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816223@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Pittsburgh Pirates
+DTSTART:20260724T224000Z
+DTEND:20260725T014000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816237@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: PNC Park
+ \, Pittsburgh\, Pennsylvania
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Pittsburgh Pirates
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Pittsburgh Pirates
+DTSTART:20260725T224000Z
+DTEND:20260726T014000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816252@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: PNC Park
+ \, Pittsburgh\, Pennsylvania
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Pittsburgh Pirates
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Pittsburgh Pirates
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816267@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: PNC Park
+ \, Pittsburgh\, Pennsylvania
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Pittsburgh Pirates
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at St. Louis Cardinals
+DTSTART:20260727T234500Z
+DTEND:20260728T024500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816286@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Busch St
+ adium\, St. Louis\, Missouri
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at St. Louis Cardinals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at St. Louis Cardinals
+DTSTART:20260728T234500Z
+DTEND:20260729T024500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816299@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Busch St
+ adium\, St. Louis\, Missouri
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at St. Louis Cardinals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at St. Louis Cardinals
+DTSTART:20260729T234500Z
+DTEND:20260730T024500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816314@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Busch St
+ adium\, St. Louis\, Missouri
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at St. Louis Cardinals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at St. Louis Cardinals
+DTSTART:20260730T181500Z
+DTEND:20260730T211500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816326@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: ESPN Unlmtd\nVenue: Bus
+ ch Stadium\, St. Louis\, Missouri
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at St. Louis Cardinals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Yankees at Chicago Cubs
+DTSTART:20260731T182000Z
+DTEND:20260731T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816339@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: New York Yankees at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Yankees at Chicago Cubs
+DTSTART:20260801T231500Z
+DTEND:20260802T021500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816354@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: New York Yankees at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Yankees at Chicago Cubs
+DTSTART:20260802T182000Z
+DTEND:20260802T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816369@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: New York Yankees at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Dodgers at Chicago Cubs
+DTSTART:20260804T000500Z
+DTEND:20260804T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816379@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Los Angeles Dodgers at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Dodgers at Chicago Cubs
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816391@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Los Angeles Dodgers at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Dodgers at Chicago Cubs
+DTSTART:20260805T182000Z
+DTEND:20260805T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816406@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Los Angeles Dodgers at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Kansas City Royals
+DTSTART:20260808T001000Z
+DTEND:20260808T031000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816431@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Kauffman
+  Stadium\, Kansas City\, Missouri
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Kansas City Royals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Kansas City Royals
+DTSTART:20260808T231000Z
+DTEND:20260809T021000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816446@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Kauffman
+  Stadium\, Kansas City\, Missouri
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Kansas City Royals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Kansas City Royals
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816461@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Kauffman
+  Stadium\, Kansas City\, Missouri
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Kansas City Royals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Washington Nationals
+DTSTART:20260811T224500Z
+DTEND:20260812T014500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816480@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: National
+ s Park\, Washington\, District of Columbia
+LOCATION:Nationals Park\, Washington\, District of Columbia
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Washington Nationals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Washington Nationals
+DTSTART:20260812T224500Z
+DTEND:20260813T014500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816495@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: National
+ s Park\, Washington\, District of Columbia
+LOCATION:Nationals Park\, Washington\, District of Columbia
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Washington Nationals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Cubs at Washington Nationals
+DTSTART:20260813T200500Z
+DTEND:20260813T230500Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816510@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: National
+ s Park\, Washington\, District of Columbia
+LOCATION:Nationals Park\, Washington\, District of Columbia
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago Cubs at Washington Nationals
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis Cardinals at Chicago Cubs
+DTSTART:20260814T182000Z
+DTEND:20260814T212000Z
+DTSTAMP:20260616T005408Z
+UID:sportsbot-401816527@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: St. Louis Cardinals at Chicago Cubs
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Houston Astros
+DTSTART:20260617T001000Z
+DTEND:20260617T031000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815782@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Daikin P
+ ark\, Houston\, Texas
+LOCATION:Daikin Park\, Houston\, Texas
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Houston Astros
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Houston Astros
+DTSTART:20260617T181000Z
+DTEND:20260617T211000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815797@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Daikin P
+ ark\, Houston\, Texas
+LOCATION:Daikin Park\, Houston\, Texas
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Houston Astros
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago White Sox at Detroit Tigers
+DTSTART:20260619T224000Z
+DTEND:20260620T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815812@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago White Sox at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago White Sox at Detroit Tigers
+DTSTART:20260620T171000Z
+DTEND:20260620T201000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815825@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago White Sox at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago White Sox at Detroit Tigers
+DTSTART:20260621T174000Z
+DTEND:20260621T204000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815839@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago White Sox at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Yankees at Detroit Tigers
+DTSTART:20260622T224000Z
+DTEND:20260623T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815858@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: New York Yankees at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Yankees at Detroit Tigers
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815871@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: New York Yankees at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Yankees at Detroit Tigers
+DTSTART:20260624T224000Z
+DTEND:20260625T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815886@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: New York Yankees at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Astros at Detroit Tigers
+DTSTART:20260625T224000Z
+DTEND:20260626T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815898@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Houston Astros at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Astros at Detroit Tigers
+DTSTART:20260626T224000Z
+DTEND:20260627T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815908@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Houston Astros at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Astros at Detroit Tigers
+DTSTART:20260627T171000Z
+DTEND:20260627T201000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815923@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Houston Astros at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Astros at Detroit Tigers
+DTSTART:20260628T174000Z
+DTEND:20260628T204000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815938@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Houston Astros at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at New York Yankees
+DTSTART:20260629T230500Z
+DTEND:20260630T020500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815952@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Yankee S
+ tadium\, Bronx\, New York
+LOCATION:Yankee Stadium\, Bronx\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at New York Yankees
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at New York Yankees
+DTSTART:20260630T230500Z
+DTEND:20260701T020500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815965@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Yankee S
+ tadium\, Bronx\, New York
+LOCATION:Yankee Stadium\, Bronx\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at New York Yankees
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at New York Yankees
+DTSTART:20260701T173500Z
+DTEND:20260701T203500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815980@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Yankee S
+ tadium\, Bronx\, New York
+LOCATION:Yankee Stadium\, Bronx\, New York
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at New York Yankees
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Texas Rangers
+DTSTART:20260703T000500Z
+DTEND:20260703T030500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401815997@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: ESPN Unlmtd\nVenue: Glo
+ be Life Field\, Arlington\, Texas
+LOCATION:Globe Life Field\, Arlington\, Texas
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Texas Rangers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Texas Rangers
+DTSTART:20260704T200500Z
+DTEND:20260704T230500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816020@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Globe Li
+ fe Field\, Arlington\, Texas
+LOCATION:Globe Life Field\, Arlington\, Texas
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Texas Rangers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Texas Rangers
+DTSTART:20260705T193000Z
+DTEND:20260705T223000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816035@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: Peacock\nVenue: Globe L
+ ife Field\, Arlington\, Texas
+LOCATION:Globe Life Field\, Arlington\, Texas
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Texas Rangers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics Athletics at Detroit Tigers
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816053@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Athletics Athletics at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics Athletics at Detroit Tigers
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816068@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Athletics Athletics at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics Athletics at Detroit Tigers
+DTSTART:20260709T224000Z
+DTEND:20260710T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816083@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Athletics Athletics at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Phillies at Detroit Tigers
+DTSTART:20260710T224000Z
+DTEND:20260711T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816102@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Philadelphia Phillies at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Phillies at Detroit Tigers
+DTSTART:20260711T221000Z
+DTEND:20260712T011000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816117@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Philadelphia Phillies at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Phillies at Detroit Tigers
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816132@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Philadelphia Phillies at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Los Angeles Angels
+DTSTART:20260718T013800Z
+DTEND:20260718T043800Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816152@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Angel St
+ adium\, Anaheim\, California
+LOCATION:Angel Stadium\, Anaheim\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Los Angeles Angels
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Los Angeles Angels
+DTSTART:20260719T020700Z
+DTEND:20260719T050700Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816167@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Angel St
+ adium\, Anaheim\, California
+LOCATION:Angel Stadium\, Anaheim\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Los Angeles Angels
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Los Angeles Angels
+DTSTART:20260719T200700Z
+DTEND:20260719T230700Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816182@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Angel St
+ adium\, Anaheim\, California
+LOCATION:Angel Stadium\, Anaheim\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Los Angeles Angels
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Royals at Detroit Tigers
+DTSTART:20260723T224000Z
+DTEND:20260724T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816231@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Kansas City Royals at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Royals at Detroit Tigers
+DTSTART:20260724T224000Z
+DTEND:20260725T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816239@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Kansas City Royals at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Royals at Detroit Tigers
+DTSTART:20260725T171000Z
+DTEND:20260725T201000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816254@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: ESPN Unlmtd\nVenue: Com
+ erica Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Kansas City Royals at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Royals at Detroit Tigers
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816269@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Kansas City Royals at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Orioles at Detroit Tigers
+DTSTART:20260727T224000Z
+DTEND:20260728T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816282@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Baltimore Orioles at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Orioles at Detroit Tigers
+DTSTART:20260728T224000Z
+DTEND:20260729T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816294@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Baltimore Orioles at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Orioles at Detroit Tigers
+DTSTART:20260729T171000Z
+DTEND:20260729T201000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816309@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Baltimore Orioles at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Athletics Athletics
+DTSTART:20260801T014000Z
+DTEND:20260801T044000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816343@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Sutter H
+ ealth Park\, Sacramento\, California
+LOCATION:Sutter Health Park\, Sacramento\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Athletics Athletics
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Athletics Athletics
+DTSTART:20260802T014000Z
+DTEND:20260802T044000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816358@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Sutter H
+ ealth Park\, Sacramento\, California
+LOCATION:Sutter Health Park\, Sacramento\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Athletics Athletics
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Athletics Athletics
+DTSTART:20260802T200500Z
+DTEND:20260802T230500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816373@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Sutter H
+ ealth Park\, Sacramento\, California
+LOCATION:Sutter Health Park\, Sacramento\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Athletics Athletics
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Seattle Mariners
+DTSTART:20260805T014000Z
+DTEND:20260805T044000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816397@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: T-Mobile
+  Park\, Seattle\, Washington
+LOCATION:T-Mobile Park\, Seattle\, Washington
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Seattle Mariners
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Seattle Mariners
+DTSTART:20260806T014000Z
+DTEND:20260806T044000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816412@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: T-Mobile
+  Park\, Seattle\, Washington
+LOCATION:T-Mobile Park\, Seattle\, Washington
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Seattle Mariners
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at Seattle Mariners
+DTSTART:20260806T201000Z
+DTEND:20260806T231000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816422@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: T-Mobile
+  Park\, Seattle\, Washington
+LOCATION:T-Mobile Park\, Seattle\, Washington
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at Seattle Mariners
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at San Francisco Giants
+DTSTART:20260808T021500Z
+DTEND:20260808T051500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816435@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Oracle P
+ ark\, San Francisco\, California
+LOCATION:Oracle Park\, San Francisco\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at San Francisco Giants
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at San Francisco Giants
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816450@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Oracle P
+ ark\, San Francisco\, California
+LOCATION:Oracle Park\, San Francisco\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at San Francisco Giants
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Tigers at San Francisco Giants
+DTSTART:20260809T200500Z
+DTEND:20260809T230500Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816465@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Oracle P
+ ark\, San Francisco\, California
+LOCATION:Oracle Park\, San Francisco\, California
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Detroit Tigers at San Francisco Giants
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Guardians at Detroit Tigers
+DTSTART:20260811T224000Z
+DTEND:20260812T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816481@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Cleveland Guardians at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Guardians at Detroit Tigers
+DTSTART:20260812T224000Z
+DTEND:20260813T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816496@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Cleveland Guardians at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Guardians at Detroit Tigers
+DTSTART:20260813T171000Z
+DTEND:20260813T201000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816511@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Cleveland Guardians at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago White Sox at Detroit Tigers
+DTSTART:20260814T224000Z
+DTEND:20260815T014000Z
+DTSTAMP:20260616T005413Z
+UID:sportsbot-401816520@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
+  Park\, Detroit\, Michigan
+LOCATION:Comerica Park\, Detroit\, Michigan
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Chicago White Sox at Detroit Tigers
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
