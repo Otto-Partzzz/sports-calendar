@@ -7,24 +7,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Minnesota Twins at Chicago Cubs
-DTSTART:20260718T182000Z
-DTEND:20260718T212000Z
-DTSTAMP:20260718T180020Z
-UID:sportsbot-401816164@github-actions
-DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
- Field\, Chicago\, Illinois
-LOCATION:Wrigley Field\, Chicago\, Illinois
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Minnesota Twins at Chicago Cubs
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minnesota Twins at Chicago Cubs
 DTSTART:20260719T182000Z
 DTEND:20260719T212000Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816179@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -39,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Chicago Cubs
 DTSTART:20260721T000500Z
 DTEND:20260721T030500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816193@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -54,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Chicago Cubs
 DTSTART:20260722T000500Z
 DTEND:20260722T030500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816208@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -69,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Chicago Cubs
 DTSTART:20260723T000000Z
 DTEND:20260723T030000Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816223@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: ESPN\nVenue: Wrigley Fi
  eld\, Chicago\, Illinois
@@ -84,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Pittsburgh Pirates
 DTSTART:20260724T224000Z
 DTEND:20260725T014000Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816237@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: PNC Park
  \, Pittsburgh\, Pennsylvania
@@ -99,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Pittsburgh Pirates
 DTSTART:20260725T224000Z
 DTEND:20260726T014000Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816252@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: PNC Park
  \, Pittsburgh\, Pennsylvania
@@ -114,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Pittsburgh Pirates
 DTSTART:20260726T173500Z
 DTEND:20260726T203500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816267@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: PNC Park
  \, Pittsburgh\, Pennsylvania
@@ -129,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at St. Louis Cardinals
 DTSTART:20260727T234500Z
 DTEND:20260728T024500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816286@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Busch St
  adium\, St. Louis\, Missouri
@@ -144,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at St. Louis Cardinals
 DTSTART:20260728T234500Z
 DTEND:20260729T024500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816299@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Busch St
  adium\, St. Louis\, Missouri
@@ -159,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at St. Louis Cardinals
 DTSTART:20260729T234500Z
 DTEND:20260730T024500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816314@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Busch St
  adium\, St. Louis\, Missouri
@@ -174,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at St. Louis Cardinals
 DTSTART:20260730T181500Z
 DTEND:20260730T211500Z
-DTSTAMP:20260718T180020Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816326@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: ESPN Unlmtd\nVenue: Bus
  ch Stadium\, St. Louis\, Missouri
@@ -189,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:New York Yankees at Chicago Cubs
 DTSTART:20260731T182000Z
 DTEND:20260731T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816339@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -204,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:New York Yankees at Chicago Cubs
 DTSTART:20260801T231500Z
 DTEND:20260802T021500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816354@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -219,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:New York Yankees at Chicago Cubs
 DTSTART:20260802T182000Z
 DTEND:20260802T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816369@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -234,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Dodgers at Chicago Cubs
 DTSTART:20260804T000500Z
 DTEND:20260804T030500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816379@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -249,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Dodgers at Chicago Cubs
 DTSTART:20260805T000500Z
 DTEND:20260805T030500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816391@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -264,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Dodgers at Chicago Cubs
 DTSTART:20260805T182000Z
 DTEND:20260805T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816406@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -279,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Toronto Blue Jays at Chicago Cubs
 DTSTART:20260806T182000Z
 DTEND:20260806T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401879389@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -294,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Kansas City Royals
 DTSTART:20260808T001000Z
 DTEND:20260808T031000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816431@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Kauffman
   Stadium\, Kansas City\, Missouri
@@ -309,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Kansas City Royals
 DTSTART:20260808T231000Z
 DTEND:20260809T021000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816446@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Kauffman
   Stadium\, Kansas City\, Missouri
@@ -324,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Kansas City Royals
 DTSTART:20260809T181000Z
 DTEND:20260809T211000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816461@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Kauffman
   Stadium\, Kansas City\, Missouri
@@ -339,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Washington Nationals
 DTSTART:20260811T224500Z
 DTEND:20260812T014500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816480@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: National
  s Park\, Washington\, District of Columbia
@@ -354,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Washington Nationals
 DTSTART:20260812T224500Z
 DTEND:20260813T014500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816495@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: National
  s Park\, Washington\, District of Columbia
@@ -369,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Washington Nationals
 DTSTART:20260813T200500Z
 DTEND:20260813T230500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816510@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: National
  s Park\, Washington\, District of Columbia
@@ -384,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:St. Louis Cardinals at Chicago Cubs
 DTSTART:20260814T182000Z
 DTEND:20260814T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816527@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: Apple TV\nVenue: Wrigle
  y Field\, Chicago\, Illinois
@@ -399,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:St. Louis Cardinals at Chicago Cubs
 DTSTART:20260815T182000Z
 DTEND:20260815T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816542@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -414,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:St. Louis Cardinals at Chicago Cubs
 DTSTART:20260816T190000Z
 DTEND:20260816T220000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816557@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -429,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago White Sox at Chicago Cubs
 DTSTART:20260818T000500Z
 DTEND:20260818T030500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816569@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -444,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago White Sox at Chicago Cubs
 DTSTART:20260819T000500Z
 DTEND:20260819T030500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816582@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -459,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago White Sox at Chicago Cubs
 DTSTART:20260819T182000Z
 DTEND:20260819T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816597@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -474,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Seattle Mariners
 DTSTART:20260822T021000Z
 DTEND:20260822T051000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816621@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: T-Mobile
   Park\, Seattle\, Washington
@@ -489,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Seattle Mariners
 DTSTART:20260823T014000Z
 DTEND:20260823T044000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816636@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: T-Mobile
   Park\, Seattle\, Washington
@@ -504,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Seattle Mariners
 DTSTART:20260823T201000Z
 DTEND:20260823T231000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816651@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: T-Mobile
   Park\, Seattle\, Washington
@@ -519,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Arizona Diamondbacks
 DTSTART:20260825T014000Z
 DTEND:20260825T044000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816659@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Chase Fi
  eld\, Phoenix\, Arizona
@@ -534,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Arizona Diamondbacks
 DTSTART:20260826T014000Z
 DTEND:20260826T044000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816674@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Chase Fi
  eld\, Phoenix\, Arizona
@@ -549,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Arizona Diamondbacks
 DTSTART:20260826T194000Z
 DTEND:20260826T224000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816689@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Chase Fi
  eld\, Phoenix\, Arizona
@@ -564,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Reds at Chicago Cubs
 DTSTART:20260828T182000Z
 DTEND:20260828T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816711@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -579,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Reds at Chicago Cubs
 DTSTART:20260829T182000Z
 DTEND:20260829T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816726@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -594,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Reds at Chicago Cubs
 DTSTART:20260830T191000Z
 DTEND:20260830T221000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816741@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: NBC\nVenue: Wrigley Fie
  ld\, Chicago\, Illinois
@@ -609,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:Milwaukee Brewers at Chicago Cubs
 DTSTART:20260831T234000Z
 DTEND:20260901T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816754@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -624,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Milwaukee Brewers at Chicago Cubs
 DTSTART:20260901T234000Z
 DTEND:20260902T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816768@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -639,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Milwaukee Brewers at Chicago Cubs
 DTSTART:20260902T234000Z
 DTEND:20260903T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816783@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -654,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:Milwaukee Brewers at Chicago Cubs
 DTSTART:20260903T231500Z
 DTEND:20260904T021500Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816793@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -669,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Miami Marlins
 DTSTART:20260904T231000Z
 DTEND:20260905T021000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816800@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: loanDepo
  t park\, Miami\, Florida
@@ -684,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Miami Marlins
 DTSTART:20260905T201000Z
 DTEND:20260905T231000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816815@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: loanDepo
  t park\, Miami\, Florida
@@ -699,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Miami Marlins
 DTSTART:20260906T174000Z
 DTEND:20260906T204000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816830@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: loanDepo
  t park\, Miami\, Florida
@@ -714,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Milwaukee Brewers
 DTSTART:20260907T181000Z
 DTEND:20260907T211000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816848@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: American
   Family Field\, Milwaukee\, Wisconsin
@@ -729,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Milwaukee Brewers
 DTSTART:20260908T234000Z
 DTEND:20260909T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816861@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: American
   Family Field\, Milwaukee\, Wisconsin
@@ -744,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago Cubs at Milwaukee Brewers
 DTSTART:20260909T234000Z
 DTEND:20260910T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816876@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: American
   Family Field\, Milwaukee\, Wisconsin
@@ -759,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Pirates at Chicago Cubs
 DTSTART:20260911T182000Z
 DTEND:20260911T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816899@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -774,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Pirates at Chicago Cubs
 DTSTART:20260912T182000Z
 DTEND:20260912T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816914@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -789,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Pirates at Chicago Cubs
 DTSTART:20260913T182000Z
 DTEND:20260913T212000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816929@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -804,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Braves at Chicago Cubs
 DTSTART:20260914T234000Z
 DTEND:20260915T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816937@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -819,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Braves at Chicago Cubs
 DTSTART:20260915T234000Z
 DTEND:20260916T024000Z
-DTSTAMP:20260718T180021Z
+DTSTAMP:20260719T180116Z
 UID:sportsbot-401816950@github-actions
 DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
  Field\, Chicago\, Illinois
@@ -831,17 +816,17 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit Tigers at Los Angeles Angels
-DTSTART:20260719T020700Z
-DTEND:20260719T050700Z
-DTSTAMP:20260718T180024Z
-UID:sportsbot-401816167@github-actions
-DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Angel St
- adium\, Anaheim\, California
-LOCATION:Angel Stadium\, Anaheim\, California
+SUMMARY:Atlanta Braves at Chicago Cubs
+DTSTART:20260916T234000Z
+DTEND:20260917T024000Z
+DTSTAMP:20260719T180116Z
+UID:sportsbot-401816965@github-actions
+DESCRIPTION:Watch: Chicago Cubs – All Games\nTV: MLB.TV\nVenue: Wrigley 
+ Field\, Chicago\, Illinois
+LOCATION:Wrigley Field\, Chicago\, Illinois
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: Detroit Tigers at Los Angeles Angels
+DESCRIPTION:Starting soon: Atlanta Braves at Chicago Cubs
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -849,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Los Angeles Angels
 DTSTART:20260719T200700Z
 DTEND:20260719T230700Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816182@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Angel St
  adium\, Anaheim\, California
@@ -864,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Royals at Detroit Tigers
 DTSTART:20260723T224000Z
 DTEND:20260724T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816231@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -879,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Royals at Detroit Tigers
 DTSTART:20260724T224000Z
 DTEND:20260725T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816239@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -894,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Royals at Detroit Tigers
 DTSTART:20260725T171000Z
 DTEND:20260725T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816254@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: ESPN Unlmtd\nVenue: Com
  erica Park\, Detroit\, Michigan
@@ -909,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Royals at Detroit Tigers
 DTSTART:20260726T174000Z
 DTEND:20260726T204000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816269@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -924,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Orioles at Detroit Tigers
 DTSTART:20260727T224000Z
 DTEND:20260728T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816282@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -939,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Orioles at Detroit Tigers
 DTSTART:20260728T224000Z
 DTEND:20260729T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816294@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -954,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Orioles at Detroit Tigers
 DTSTART:20260729T171000Z
 DTEND:20260729T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816309@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -969,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Athletics Athletics
 DTSTART:20260801T014000Z
 DTEND:20260801T044000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816343@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Sutter H
  ealth Park\, Sacramento\, California
@@ -984,7 +969,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Athletics Athletics
 DTSTART:20260802T014000Z
 DTEND:20260802T044000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816358@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Sutter H
  ealth Park\, Sacramento\, California
@@ -999,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Athletics Athletics
 DTSTART:20260802T200500Z
 DTEND:20260802T230500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816373@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Sutter H
  ealth Park\, Sacramento\, California
@@ -1014,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Seattle Mariners
 DTSTART:20260805T014000Z
 DTEND:20260805T044000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816397@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: T-Mobile
   Park\, Seattle\, Washington
@@ -1029,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Seattle Mariners
 DTSTART:20260806T014000Z
 DTEND:20260806T044000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816412@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: T-Mobile
   Park\, Seattle\, Washington
@@ -1044,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Seattle Mariners
 DTSTART:20260806T201000Z
 DTEND:20260806T231000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816422@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: T-Mobile
   Park\, Seattle\, Washington
@@ -1059,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at San Francisco Giants
 DTSTART:20260808T021500Z
 DTEND:20260808T051500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816435@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Oracle P
  ark\, San Francisco\, California
@@ -1074,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at San Francisco Giants
 DTSTART:20260808T231500Z
 DTEND:20260809T021500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816450@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Oracle P
  ark\, San Francisco\, California
@@ -1089,7 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at San Francisco Giants
 DTSTART:20260809T200500Z
 DTEND:20260809T230500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816465@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Oracle P
  ark\, San Francisco\, California
@@ -1104,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Guardians at Detroit Tigers
 DTSTART:20260811T224000Z
 DTEND:20260812T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816481@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1119,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Guardians at Detroit Tigers
 DTSTART:20260812T224000Z
 DTEND:20260813T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816496@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1134,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Guardians at Detroit Tigers
 DTSTART:20260813T171000Z
 DTEND:20260813T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816511@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1149,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago White Sox at Detroit Tigers
 DTSTART:20260814T224000Z
 DTEND:20260815T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816520@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1164,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago White Sox at Detroit Tigers
 DTSTART:20260815T171000Z
 DTEND:20260815T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816535@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1179,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:Chicago White Sox at Detroit Tigers
 DTSTART:20260816T174000Z
 DTEND:20260816T204000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816550@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1194,7 +1179,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Pittsburgh Pirates
 DTSTART:20260817T230500Z
 DTEND:20260818T020500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816564@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: PNC Park
  \, Pittsburgh\, Pennsylvania
@@ -1209,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Pittsburgh Pirates
 DTSTART:20260818T224000Z
 DTEND:20260819T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816572@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: PNC Park
  \, Pittsburgh\, Pennsylvania
@@ -1224,7 +1209,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Pittsburgh Pirates
 DTSTART:20260819T163500Z
 DTEND:20260819T193500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816587@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: PNC Park
  \, Pittsburgh\, Pennsylvania
@@ -1239,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Kansas City Royals
 DTSTART:20260822T001000Z
 DTEND:20260822T031000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816618@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Kauffman
   Stadium\, Kansas City\, Missouri
@@ -1254,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Kansas City Royals
 DTSTART:20260822T231500Z
 DTEND:20260823T021500Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816633@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Kauffman
   Stadium\, Kansas City\, Missouri
@@ -1269,7 +1254,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Kansas City Royals
 DTSTART:20260823T181000Z
 DTEND:20260823T211000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816648@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Kauffman
   Stadium\, Kansas City\, Missouri
@@ -1284,7 +1269,7 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Rays at Detroit Tigers
 DTSTART:20260824T224000Z
 DTEND:20260825T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816657@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1299,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Rays at Detroit Tigers
 DTSTART:20260825T224000Z
 DTEND:20260826T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816671@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1314,7 +1299,7 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Rays at Detroit Tigers
 DTSTART:20260826T171000Z
 DTEND:20260826T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816686@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1329,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Dodgers at Detroit Tigers
 DTSTART:20260828T224000Z
 DTEND:20260829T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816706@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1344,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Dodgers at Detroit Tigers
 DTSTART:20260829T171000Z
 DTEND:20260829T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816721@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1359,7 +1344,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Dodgers at Detroit Tigers
 DTSTART:20260830T174000Z
 DTEND:20260830T204000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816736@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1374,7 +1359,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Minnesota Twins
 DTSTART:20260831T234000Z
 DTEND:20260901T024000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816753@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Target F
  ield\, Minneapolis\, Minnesota
@@ -1389,7 +1374,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Minnesota Twins
 DTSTART:20260901T234000Z
 DTEND:20260902T024000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816766@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Target F
  ield\, Minneapolis\, Minnesota
@@ -1404,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Minnesota Twins
 DTSTART:20260902T234000Z
 DTEND:20260903T024000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816781@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Target F
  ield\, Minneapolis\, Minnesota
@@ -1419,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Cleveland Guardians
 DTSTART:20260904T181000Z
 DTEND:20260904T211000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401877193@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Progress
  ive Field\, Cleveland\, Ohio
@@ -1434,7 +1419,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Cleveland Guardians
 DTSTART:20260904T231000Z
 DTEND:20260905T021000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816801@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Progress
  ive Field\, Cleveland\, Ohio
@@ -1449,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Cleveland Guardians
 DTSTART:20260905T221000Z
 DTEND:20260906T011000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816816@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Progress
  ive Field\, Cleveland\, Ohio
@@ -1464,7 +1449,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Cleveland Guardians
 DTSTART:20260906T174000Z
 DTEND:20260906T204000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816831@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Progress
  ive Field\, Cleveland\, Ohio
@@ -1479,7 +1464,7 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Twins at Detroit Tigers
 DTSTART:20260907T171000Z
 DTEND:20260907T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816845@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1494,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Twins at Detroit Tigers
 DTSTART:20260908T224000Z
 DTEND:20260909T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816857@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1509,7 +1494,7 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Twins at Detroit Tigers
 DTSTART:20260909T171000Z
 DTEND:20260909T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816872@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1524,7 +1509,7 @@ BEGIN:VEVENT
 SUMMARY:Colorado Rockies at Detroit Tigers
 DTSTART:20260911T224000Z
 DTEND:20260912T014000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816890@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1539,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:Colorado Rockies at Detroit Tigers
 DTSTART:20260912T171000Z
 DTEND:20260912T201000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816905@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1554,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:Colorado Rockies at Detroit Tigers
 DTSTART:20260913T161000Z
 DTEND:20260913T191000Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816920@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Comerica
   Park\, Detroit\, Michigan
@@ -1569,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Toronto Blue Jays
 DTSTART:20260914T230700Z
 DTEND:20260915T020700Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816935@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Rogers C
  entre\, Toronto\, Ontario
@@ -1584,7 +1569,7 @@ BEGIN:VEVENT
 SUMMARY:Detroit Tigers at Toronto Blue Jays
 DTSTART:20260915T230700Z
 DTEND:20260916T020700Z
-DTSTAMP:20260718T180024Z
+DTSTAMP:20260719T180118Z
 UID:sportsbot-401816946@github-actions
 DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Rogers C
  entre\, Toronto\, Ontario
@@ -1596,17 +1581,17 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:England at France
-DTSTART:20260718T210000Z
-DTEND:20260719T000000Z
-DTSTAMP:20260718T180111Z
-UID:sportsbot-760516@github-actions
-DESCRIPTION:Watch: FIFA World Cup\nTV: FOX\nVenue: Hard Rock Stadium\, Mia
- mi Gardens\, Florida
-LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida
+SUMMARY:Detroit Tigers at Toronto Blue Jays
+DTSTART:20260916T190700Z
+DTEND:20260916T220700Z
+DTSTAMP:20260719T180118Z
+UID:sportsbot-401816961@github-actions
+DESCRIPTION:Watch: Detroit Tigers - All Games\nTV: MLB.TV\nVenue: Rogers C
+ entre\, Toronto\, Ontario
+LOCATION:Rogers Centre\, Toronto\, Ontario
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: England at France
+DESCRIPTION:Starting soon: Detroit Tigers at Toronto Blue Jays
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -1614,7 +1599,7 @@ BEGIN:VEVENT
 SUMMARY:Argentina at Spain
 DTSTART:20260719T190000Z
 DTEND:20260719T220000Z
-DTSTAMP:20260718T180111Z
+DTSTAMP:20260719T180155Z
 UID:sportsbot-760517@github-actions
 DESCRIPTION:Watch: FIFA World Cup\nTV: FOX\nVenue: MetLife Stadium\, East 
  Rutherford\, New Jersey
@@ -1626,40 +1611,10 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 Belgian Grand Prix – FP3
-DTSTART:20260718T103000Z
-DTEND:20260718T113000Z
-DTSTAMP:20260718T180207Z
-UID:sportsbot-0b7debee7b63bcbc2f4de34876aa3ad7@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit de Spa-Francorchamps\, S
- pa\, Belgium
-LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Belgian Grand Prix – FP3
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1 Belgian Grand Prix – Qualifying
-DTSTART:20260718T140000Z
-DTEND:20260718T150000Z
-DTSTAMP:20260718T180207Z
-UID:sportsbot-b14f9691283345f4a16727d94789a882@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit de Spa-Francorchamps\, S
- pa\, Belgium
-LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Belgian Grand Prix – Qualifying
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1 Belgian Grand Prix – Race
 DTSTART:20260719T130000Z
 DTEND:20260719T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-6a496adb97ecdc1655b9afee0f8ab533@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit de Spa-Francorchamps\, S
  pa\, Belgium
@@ -1674,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Hungarian Grand Prix – FP1
 DTSTART:20260724T113000Z
 DTEND:20260724T123000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-33763a28d53786d3d1f5bdff39c3c5c7@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Hungaroring\, Budapest\, Hungary
 LOCATION:Hungaroring\, Budapest\, Hungary
@@ -1688,7 +1643,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Hungarian Grand Prix – FP2
 DTSTART:20260724T150000Z
 DTEND:20260724T160000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-621f053325c81ef5896b8e974ff20c60@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Hungaroring\, Budapest\, Hungary
 LOCATION:Hungaroring\, Budapest\, Hungary
@@ -1702,7 +1657,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Hungarian Grand Prix – FP3
 DTSTART:20260725T103000Z
 DTEND:20260725T113000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-6872cd6a6dd5022ed682f3f12b61000b@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Hungaroring\, Budapest\, Hungary
 LOCATION:Hungaroring\, Budapest\, Hungary
@@ -1716,7 +1671,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Hungarian Grand Prix – Qualifying
 DTSTART:20260725T140000Z
 DTEND:20260725T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-447bbdd460382f622ae9d0ba8f4e4aad@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Hungaroring\, Budapest\, Hungary
 LOCATION:Hungaroring\, Budapest\, Hungary
@@ -1730,7 +1685,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Hungarian Grand Prix – Race
 DTSTART:20260726T130000Z
 DTEND:20260726T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-88a44806be8f15707902c75d520d437b@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Hungaroring\, Budapest\, Hungary
 LOCATION:Hungaroring\, Budapest\, Hungary
@@ -1744,7 +1699,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Dutch Grand Prix – FP1
 DTSTART:20260821T103000Z
 DTEND:20260821T113000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-b62fe8ff9908863f35e4d8d3a69804cc@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit Park Zandvoort\, Zandvoo
  rt\, Netherlands
@@ -1759,7 +1714,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Dutch Grand Prix – Qualifying
 DTSTART:20260822T140000Z
 DTEND:20260822T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-909dde789a633c372f93b5e204085f72@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit Park Zandvoort\, Zandvoo
  rt\, Netherlands
@@ -1774,7 +1729,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Dutch Grand Prix – Sprint
 DTSTART:20260822T100000Z
 DTEND:20260822T110000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-ece181a5b0d4c6738763360dcd0451b0@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit Park Zandvoort\, Zandvoo
  rt\, Netherlands
@@ -1789,7 +1744,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Dutch Grand Prix – Sprint Qualifying
 DTSTART:20260821T143000Z
 DTEND:20260821T153000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-0354590244cd10bd0f52a350d0dc8660@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit Park Zandvoort\, Zandvoo
  rt\, Netherlands
@@ -1804,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Dutch Grand Prix – Race
 DTSTART:20260823T130000Z
 DTEND:20260823T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-265accb5ab8a1a1bc8a520dc5673cb3c@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Circuit Park Zandvoort\, Zandvoo
  rt\, Netherlands
@@ -1819,7 +1774,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Italian Grand Prix – FP1
 DTSTART:20260904T103000Z
 DTEND:20260904T113000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-b4cebf7b1f301b153cdb1b61abdeb92a@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Autodromo Nazionale di Monza\, M
  onza\, Italy
@@ -1834,7 +1789,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Italian Grand Prix – FP2
 DTSTART:20260904T140000Z
 DTEND:20260904T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-f22922463684eb3891e6b71939f8627d@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Autodromo Nazionale di Monza\, M
  onza\, Italy
@@ -1849,7 +1804,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Italian Grand Prix – FP3
 DTSTART:20260905T103000Z
 DTEND:20260905T113000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-faa62591febeb5212a87cd70557e02c2@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Autodromo Nazionale di Monza\, M
  onza\, Italy
@@ -1864,7 +1819,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Italian Grand Prix – Qualifying
 DTSTART:20260905T140000Z
 DTEND:20260905T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-cd57b50287764583ac52cc9fdc69ac0f@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Autodromo Nazionale di Monza\, M
  onza\, Italy
@@ -1879,7 +1834,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Italian Grand Prix – Race
 DTSTART:20260906T130000Z
 DTEND:20260906T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-bd0972a2bcbb6a9ab33f040082714358@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Autodromo Nazionale di Monza\, M
  onza\, Italy
@@ -1894,7 +1849,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Spanish Grand Prix – FP1
 DTSTART:20260911T113000Z
 DTEND:20260911T123000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-05f1f89edca94643729743c8998141a9@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Madring\, Madrid\, Spain
 LOCATION:Madring\, Madrid\, Spain
@@ -1908,7 +1863,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Spanish Grand Prix – FP2
 DTSTART:20260911T150000Z
 DTEND:20260911T160000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-f681830f9898c41d58ea5ab226151ab6@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Madring\, Madrid\, Spain
 LOCATION:Madring\, Madrid\, Spain
@@ -1922,7 +1877,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Spanish Grand Prix – FP3
 DTSTART:20260912T103000Z
 DTEND:20260912T113000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-586918ca8b7c5d10de3ad8872862a096@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Madring\, Madrid\, Spain
 LOCATION:Madring\, Madrid\, Spain
@@ -1936,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Spanish Grand Prix – Qualifying
 DTSTART:20260912T140000Z
 DTEND:20260912T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-a77817ed1da4934395c888faf42b55a6@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Madring\, Madrid\, Spain
 LOCATION:Madring\, Madrid\, Spain
@@ -1950,7 +1905,7 @@ BEGIN:VEVENT
 SUMMARY:F1 Spanish Grand Prix – Race
 DTSTART:20260913T130000Z
 DTEND:20260913T150000Z
-DTSTAMP:20260718T180207Z
+DTSTAMP:20260719T180243Z
 UID:sportsbot-22af1d65984c7011cf846d7bea6835ab@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Madring\, Madrid\, Spain
 LOCATION:Madring\, Madrid\, Spain
