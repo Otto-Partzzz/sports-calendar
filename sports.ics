@@ -6,70 +6,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:NHL: Detroit Red Wings at Florida Panthers
-DTSTART:20261103T000000Z
-DTEND:20261103T030000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401892630@github-actions
-DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Amerant Bank Arena
- \, Sunrise\, FL
-LOCATION:Amerant Bank Arena\, Sunrise\, FL
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Detroit Red Wings at Florida Panthers
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL: Detroit Red Wings at Tampa Bay Lightning
-DTSTART:20261104T000000Z
-DTEND:20261104T030000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401892635@github-actions
-DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Benchmark Internat
- ional Arena\, Tampa\, FL
-LOCATION:Benchmark International Arena\, Tampa\, FL
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Detroit Red Wings at Tampa Bay Lightning
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL: Vegas Golden Knights at Detroit Red Wings
-DTSTART:20261106T000000Z
-DTEND:20261106T030000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401892649@github-actions
-DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Little Caesars Are
- na\, Detroit\, MI
-LOCATION:Little Caesars Arena\, Detroit\, MI
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Vegas Golden Knights at Detroit Red Wings
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL: Detroit Red Wings at Colorado Avalanche
-DTSTART:20261108T020000Z
-DTEND:20261108T050000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401892671@github-actions
-DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Ball Arena\, Denve
- r\, CO
-LOCATION:Ball Arena\, Denver\, CO
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Detroit Red Wings at Colorado Avalanche
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NHL: Detroit Red Wings at St. Louis Blues
 DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892687@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: TNT\nVenue: Enterprise Center\, 
  St. Louis\, MO
@@ -84,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Detroit Red Wings at Florida Panthers
 DTSTART:20261113T003000Z
 DTEND:20261113T033000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892699@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: Disney+\nVenue: Amerant Bank Are
  na\, Sunrise\, FL
@@ -99,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Detroit Red Wings at Tampa Bay Lightning
 DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892712@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Benchmark Internat
  ional Arena\, Tampa\, FL
@@ -114,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Boston Bruins at Detroit Red Wings
 DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892739@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: TNT\nVenue: Little Caesars Arena
  \, Detroit\, MI
@@ -129,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: New York Islanders at Detroit Red Wings
 DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892762@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Little Caesars Are
  na\, Detroit\, MI
@@ -144,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Vancouver Canucks at Detroit Red Wings
 DTSTART:20261126T003000Z
 DTEND:20261126T033000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892789@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Little Caesars Are
  na\, Detroit\, MI
@@ -159,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Detroit Red Wings at Columbus Blue Jackets
 DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892802@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Nationwide Arena\,
   Columbus\, OH
@@ -174,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Nashville Predators at Detroit Red Wings
 DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892812@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: ESPN+\nVenue: Little Caesars Are
  na\, Detroit\, MI
@@ -189,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:NHL: Calgary Flames at Detroit Red Wings
 DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401892831@github-actions
 DESCRIPTION:Watch: Detroit Red Wings\nTV: DSN\nVenue: Little Caesars Arena
  \, Detroit\, MI
@@ -201,272 +141,47 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEFA CL: VfB Stuttgart at Galatasaray
-DTSTART:20261103T174500Z
-DTEND:20261103T204500Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915311@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: RAMS Park
- \, Istanbul
-LOCATION:RAMS Park\, Istanbul
+SUMMARY:NHL: Colorado Avalanche at Detroit Red Wings
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401892845@github-actions
+DESCRIPTION:Watch: Detroit Red Wings\nTV: Altitude Sports\nVenue: Little C
+ aesars Arena\, Detroit\, MI
+LOCATION:Little Caesars Arena\, Detroit\, MI
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: VfB Stuttgart at Galatasaray
+DESCRIPTION:Starting soon: Colorado Avalanche at Detroit Red Wings
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEFA CL: Sporting CP at Shakhtar Donetsk
-DTSTART:20261103T174500Z
-DTEND:20261103T204500Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915310@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Stamford 
- Bridge\, London
-LOCATION:Stamford Bridge\, London
+SUMMARY:NHL: Detroit Red Wings at Boston Bruins
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401892859@github-actions
+DESCRIPTION:Watch: Detroit Red Wings\nTV: DSN\nVenue: TD Garden\, Boston\,
+  MA
+LOCATION:TD Garden\, Boston\, MA
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: Sporting CP at Shakhtar Donetsk
+DESCRIPTION:Starting soon: Detroit Red Wings at Boston Bruins
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEFA CL: Bayern Munich at Atlético Madrid
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915386@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Riyadh Ai
- r Metropolitano\, Madrid
-LOCATION:Riyadh Air Metropolitano\, Madrid
+SUMMARY:NHL: Detroit Red Wings at New Jersey Devils
+DTSTART:20261210T000000Z
+DTEND:20261210T030000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401892891@github-actions
+DESCRIPTION:Watch: Detroit Red Wings\nTV: TNT\nVenue: Prudential Center\, 
+ Newark\, NJ
+LOCATION:Prudential Center\, Newark\, NJ
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: Bayern Munich at Atlético Madrid
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Aston Villa at Barcelona
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915387@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Spotify C
- amp Nou\, Barcelona
-LOCATION:Spotify Camp Nou\, Barcelona
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Aston Villa at Barcelona
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Lille at Bodo/Glimt
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915384@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Aspmyra S
- tadion\, Bodø/Glimt
-LOCATION:Aspmyra Stadion\, Bodø/Glimt
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Lille at Bodo/Glimt
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Internazionale at Feyenoord Rotterdam
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915307@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: De Kuip\,
-  Rotterdam
-LOCATION:De Kuip\, Rotterdam
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Internazionale at Feyenoord Rotterdam
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Slovan Bratislava at LASK Linz
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915385@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Raiffeise
- n Arena (Linz)\, Linz
-LOCATION:Raiffeisen Arena (Linz)\, Linz
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Slovan Bratislava at LASK Linz
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: AS Roma at Manchester United
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915308@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Old Traff
- ord\, Manchester
-LOCATION:Old Trafford\, Manchester
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: AS Roma at Manchester United
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Paris Saint-Germain at Villarreal
-DTSTART:20261103T200000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915309@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Estadio d
- e la Cerámica\, Villarreal
-LOCATION:Estadio de la Cerámica\, Villarreal
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Paris Saint-Germain at Villarreal
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Real Madrid at AEK Athens
-DTSTART:20261104T174500Z
-DTEND:20261104T204500Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915383@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: OPAP Aren
- a\, Athens
-LOCATION:OPAP Arena\, Athens
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Real Madrid at AEK Athens
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Liverpool at Fenerbahce
-DTSTART:20261104T174500Z
-DTEND:20261104T204500Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915382@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Şükrü 
- Saracoğlu Stadium\, Istanbul
-LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Liverpool at Fenerbahce
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Real Betis at Borussia Dortmund
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915304@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Signal Id
- una Park\, Aue
-LOCATION:Signal Iduna Park\, Aue
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Real Betis at Borussia Dortmund
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Napoli at FC Porto
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915301@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Estádio 
- do Dragão\, Porto
-LOCATION:Estádio do Dragão\, Porto
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Napoli at FC Porto
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Como at Lens
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915305@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Stade Bol
- laert-Delelis\, Lens
-LOCATION:Stade Bollaert-Delelis\, Lens
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Como at Lens
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Club Brugge at PSV Eindhoven
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915303@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Philips S
- tadion\, Eindhoven
-LOCATION:Philips Stadion\, Eindhoven
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Club Brugge at PSV Eindhoven
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Manchester City at RB Leipzig
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915306@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Red Bull 
- Arena\, Leipzig
-LOCATION:Red Bull Arena\, Leipzig
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Manchester City at RB Leipzig
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Arsenal at Slavia Prague
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915381@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Fortuna A
- rena\, Prague
-LOCATION:Fortuna Arena\, Prague
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Arsenal at Slavia Prague
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA CL: Sabah FK at Viking FK
-DTSTART:20261104T200000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401915302@github-actions
-DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Viking St
- adion\, Stavanger
-LOCATION:Viking Stadion\, Stavanger
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: Sabah FK at Viking FK
+DESCRIPTION:Starting soon: Detroit Red Wings at New Jersey Devils
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -474,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: LASK Linz at Bodo/Glimt
 DTSTART:20261124T174500Z
 DTEND:20261124T204500Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915380@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Aspmyra S
  tadion\, Bodø/Glimt
@@ -489,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Aston Villa at Galatasaray
 DTSTART:20261124T174500Z
 DTEND:20261124T204500Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915300@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: RAMS Park
  \, Istanbul
@@ -504,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Borussia Dortmund at Arsenal
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915295@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Emirates 
  Stadium\, London
@@ -519,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: AEK Athens at Como
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915296@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Giuseppe 
  Sinigaglia\, Como
@@ -534,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: FC Porto at Feyenoord Rotterdam
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915294@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: De Kuip\,
   Rotterdam
@@ -549,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Napoli at Manchester City
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915379@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Etihad St
  adium\, Manchester
@@ -564,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Lens at RB Leipzig
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915299@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Red Bull 
  Arena\, Leipzig
@@ -579,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: PSV Eindhoven at Real Madrid
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915298@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Santiago 
  Bernabéu\, Madrid
@@ -594,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Real Betis at Slovan Bratislava
 DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915297@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Národny 
  Futbalovy Stadión\, Bratislava
@@ -609,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Barcelona at Sabah FK
 DTSTART:20261125T174500Z
 DTEND:20261125T204500Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915378@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Baku Olym
  pic Stadium\, Baku
@@ -624,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Villarreal at Slavia Prague
 DTSTART:20261125T174500Z
 DTEND:20261125T204500Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915293@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Fortuna A
  rena\, Prague
@@ -639,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Viking FK at Atlético Madrid
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915291@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Riyadh Ai
  r Metropolitano\, Madrid
@@ -654,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Liverpool at Club Brugge
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915292@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Jan Breyd
  el Stadium\, Brugge
@@ -669,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: VfB Stuttgart at Internazionale
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915376@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: San Siro\
  , Milano
@@ -684,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Bayern Munich at Lille
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915377@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Decathlon
   Arena - Stade Pierre-Mauroy\, Lille
@@ -699,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: AS Roma at Paris Saint-Germain
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915374@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Parc des 
  Princes\, Paris
@@ -714,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Fenerbahce at Shakhtar Donetsk
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915375@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Stamford 
  Bridge\, London
@@ -729,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:UEFA CL: Manchester United at Sporting CP
 DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401915373@github-actions
 DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Estádio 
  José Alvalade\, Lisbon
@@ -741,32 +456,272 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NCAA Hockey: Augustana (SD) Vikings at Michigan Tech Huskies
-DTSTART:20261107T000700Z
-DTEND:20261107T030700Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401904523@github-actions
-DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nTV: Midco Sports Net\nVen
- ue: MacInnes Student Ice Arena\, Houghton\, MI
-LOCATION:MacInnes Student Ice Arena\, Houghton\, MI
+SUMMARY:UEFA CL: Feyenoord Rotterdam at Viking FK
+DTSTART:20261208T174500Z
+DTEND:20261208T204500Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915290@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Viking St
+ adion\, Stavanger
+LOCATION:Viking Stadion\, Stavanger
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: Augustana (SD) Vikings at Michigan Tech Huskies
+DESCRIPTION:Starting soon: Feyenoord Rotterdam at Viking FK
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NCAA Hockey: Augustana (SD) Vikings at Michigan Tech Huskies
-DTSTART:20261107T230700Z
-DTEND:20261108T020700Z
-DTSTAMP:20261102T104352Z
-UID:sportsbot-401904524@github-actions
-DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nTV: Midco Sports Net\nVen
- ue: MacInnes Student Ice Arena\, Houghton\, MI
-LOCATION:MacInnes Student Ice Arena\, Houghton\, MI
+SUMMARY:UEFA CL: Sabah FK at Villarreal
+DTSTART:20261208T174500Z
+DTEND:20261208T204500Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915372@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Estadio d
+ e la Cerámica\, Villarreal
+LOCATION:Estadio de la Cerámica\, Villarreal
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: Augustana (SD) Vikings at Michigan Tech Huskies
+DESCRIPTION:Starting soon: Sabah FK at Villarreal
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Galatasaray at AEK Athens
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915289@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: OPAP Aren
+ a\, Athens
+LOCATION:OPAP Arena\, Athens
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Galatasaray at AEK Athens
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Sporting CP at AS Roma
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915288@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Olimpico\
+ , Roma
+LOCATION:Olimpico\, Roma
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Sporting CP at AS Roma
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Paris Saint-Germain at Aston Villa
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915286@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Villa Par
+ k\, Birmingham
+LOCATION:Villa Park\, Birmingham
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Paris Saint-Germain at Aston Villa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Manchester City at Barcelona
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915285@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Spotify C
+ amp Nou\, Barcelona
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Manchester City at Barcelona
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Slavia Prague at Bayern Munich
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915284@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Allianz A
+ rena\, München
+LOCATION:Allianz Arena\, München
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Slavia Prague at Bayern Munich
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: RB Leipzig at Manchester United
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915371@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Old Traff
+ ord\, Manchester
+LOCATION:Old Trafford\, Manchester
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: RB Leipzig at Manchester United
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Club Brugge at Napoli
+DTSTART:20261208T200000Z
+DTEND:20261208T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915287@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Stadio Di
+ ego Armando Maradona\, Napoli
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Club Brugge at Napoli
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Como at Real Betis
+DTSTART:20261209T174500Z
+DTEND:20261209T204500Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915283@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Estadio L
+ a Cartuja\, Sevilla
+LOCATION:Estadio La Cartuja\, Sevilla
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Como at Real Betis
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Shakhtar Donetsk at Slovan Bratislava
+DTSTART:20261209T174500Z
+DTEND:20261209T204500Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915282@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Národny 
+ Futbalovy Stadión\, Bratislava
+LOCATION:Národny Futbalovy Stadión\, Bratislava
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Shakhtar Donetsk at Slovan Bratislava
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Real Madrid at Arsenal
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915367@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Emirates 
+ Stadium\, London
+LOCATION:Emirates Stadium\, London
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Real Madrid at Arsenal
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Internazionale at Borussia Dortmund
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915368@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Signal Id
+ una Park\, Aue
+LOCATION:Signal Iduna Park\, Aue
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Internazionale at Borussia Dortmund
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Fenerbahce at LASK Linz
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915281@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Raiffeise
+ n Arena (Linz)\, Linz
+LOCATION:Raiffeisen Arena (Linz)\, Linz
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Fenerbahce at LASK Linz
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Bodo/Glimt at Lens
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915370@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Stade Bol
+ laert-Delelis\, Lens
+LOCATION:Stade Bollaert-Delelis\, Lens
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Bodo/Glimt at Lens
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: FC Porto at Liverpool
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915369@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Anfield\,
+  Liverpool
+LOCATION:Anfield\, Liverpool
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: FC Porto at Liverpool
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Atlético Madrid at PSV Eindhoven
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915366@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: Philips S
+ tadion\, Eindhoven
+LOCATION:Philips Stadion\, Eindhoven
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Atlético Madrid at PSV Eindhoven
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA CL: Lille at VfB Stuttgart
+DTSTART:20261209T200000Z
+DTEND:20261209T230000Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401915365@github-actions
+DESCRIPTION:Watch: UEFA Champions League\nTV: Paramount+\nVenue: MHPArena\
+ , Stuttgart
+LOCATION:MHPArena\, Stuttgart
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Lille at VfB Stuttgart
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -774,10 +729,10 @@ BEGIN:VEVENT
 SUMMARY:NCAA Hockey: Lake Superior State Lakers at Michigan Tech Huskies
 DTSTART:20261113T230700Z
 DTEND:20261114T020700Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401904631@github-actions
-DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nVenue: MacInnes Student I
- ce Arena\, Houghton\, MI
+DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nTV: Midco Sports Net\nVen
+ ue: MacInnes Student Ice Arena\, Houghton\, MI
 LOCATION:MacInnes Student Ice Arena\, Houghton\, MI
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -788,12 +743,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCAA Hockey: Lake Superior State Lakers at Michigan Tech Huskies
-DTSTART:20261115T000700Z
-DTEND:20261115T030700Z
-DTSTAMP:20261102T104352Z
+DTSTART:20261114T230700Z
+DTEND:20261115T020700Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401904632@github-actions
-DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nVenue: MacInnes Student I
- ce Arena\, Houghton\, MI
+DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nTV: Midco Sports Net\nVen
+ ue: MacInnes Student Ice Arena\, Houghton\, MI
 LOCATION:MacInnes Student Ice Arena\, Houghton\, MI
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -806,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:NCAA Hockey: Michigan Tech Huskies at Minnesota State Mavericks
 DTSTART:20261121T010700Z
 DTEND:20261121T040700Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401904647@github-actions
 DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nVenue: Mayo Clinic Health
   System Event Center\, Mankato\, MN
@@ -822,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:NCAA Hockey: Michigan Tech Huskies at Minnesota State Mavericks
 DTSTART:20261122T000700Z
 DTEND:20261122T030700Z
-DTSTAMP:20261102T104352Z
+DTSTAMP:20261110T082829Z
 UID:sportsbot-401904648@github-actions
 DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nVenue: Mayo Clinic Health
   System Event Center\, Mankato\, MN
@@ -835,15 +790,34 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MTU_FOOTBALL: Davenport at Michigan Tech
-DTSTART:20261107T170000Z
-DTEND:20261107T200000Z
-DTSTAMP:20261102T104406Z
-UID:sportsbot-716b25b03fb43be2243fa914dc993aa8@github-actions
-DESCRIPTION:Watch: Michigan Tech Huskies Football\n
+SUMMARY:NCAA Hockey: Michigan Tech Huskies at Northern Michigan Wildcats
+DTSTART:20261205T000700Z
+DTEND:20261205T030700Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401904649@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nVenue: Berry Events Cente
+ r\, Marquette\, MI
+LOCATION:Berry Events Center\, Marquette\, MI
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: Davenport at Michigan Tech
+DESCRIPTION:Starting soon: Michigan Tech Huskies at Northern Michigan Wild
+ cats
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NCAA Hockey: Northern Michigan Wildcats at Michigan Tech Huskies
+DTSTART:20261205T230700Z
+DTEND:20261206T020700Z
+DTSTAMP:20261110T082829Z
+UID:sportsbot-401904650@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Hockey\nVenue: MacInnes Student I
+ ce Arena\, Houghton\, MI
+LOCATION:MacInnes Student Ice Arena\, Houghton\, MI
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Northern Michigan Wildcats at Michigan Tech Hus
+ kies
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -851,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:MTU_FOOTBALL: Wayne St. (MI) at Michigan Tech
 DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
-DTSTAMP:20261102T104406Z
+DTSTAMP:20261110T082841Z
 UID:sportsbot-41f16232859a47284bf4d3dc7fad8092@github-actions
 DESCRIPTION:Watch: Michigan Tech Huskies Football\n
 BEGIN:VALARM
@@ -864,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:MTU_BASKETBALL: Michigan Tech at Winona St.
 DTSTART:20261113T210000Z
 DTEND:20261114T000000Z
-DTSTAMP:20261102T104430Z
+DTSTAMP:20261110T082905Z
 UID:sportsbot-c8c8a7bc6446d687e1c5465faacc4755@github-actions
 DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
 BEGIN:VALARM
@@ -877,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:MTU_BASKETBALL: Michigan Tech at Mo.-St. Louis
 DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
-DTSTAMP:20261102T104430Z
+DTSTAMP:20261110T082905Z
 UID:sportsbot-e790f421a6ca464ec82fff021a672dcf@github-actions
 DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
 BEGIN:VALARM
@@ -887,10 +861,49 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MTU_BASKETBALL: Concordia-St. Paul at Michigan Tech
+DTSTART:20261119T230000Z
+DTEND:20261120T020000Z
+DTSTAMP:20261110T082905Z
+UID:sportsbot-bc5827ca545ebe32c810de798f81808e@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Concordia-St. Paul at Michigan Tech
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MTU_BASKETBALL: Minn. Duluth at Michigan Tech
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+DTSTAMP:20261110T082905Z
+UID:sportsbot-7f21ee1e9b8d0148dd473b27bc22f51a@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Minn. Duluth at Michigan Tech
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MTU_BASKETBALL: Marian (WI) at Michigan Tech
+DTSTART:20261125T210000Z
+DTEND:20261126T000000Z
+DTSTAMP:20261110T082905Z
+UID:sportsbot-b6a66ffd9ba1c892e8df270a1706fdae@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: Marian (WI) at Michigan Tech
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MTU_BASKETBALL: Winona St. at Michigan Tech
 DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261102T104430Z
+DTSTAMP:20261110T082905Z
 UID:sportsbot-25a400d9d4b3722216cf69de7f7ef4e3@github-actions
 DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
 BEGIN:VALARM
@@ -900,77 +913,28 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: F1 Brazilian Grand Prix – FP1
-DTSTART:20261106T153000Z
-DTEND:20261106T163000Z
-DTSTAMP:20261102T104432Z
-UID:sportsbot-111c8953cb288b123e6b4d87cb167013@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Autódromo José Carlos Pace\, S
- ão Paulo\, Brazil
-LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+SUMMARY:MTU_BASKETBALL: Michigan Tech at Wis.-Parkside
+DTSTART:20261204T013000Z
+DTEND:20261204T043000Z
+DTSTAMP:20261110T082905Z
+UID:sportsbot-c3169133266c612efb43403f874efd9a@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Brazilian Grand Prix – FP1
+DESCRIPTION:Starting soon: Michigan Tech at Wis.-Parkside
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: F1 Brazilian Grand Prix – FP2
-DTSTART:20261106T190000Z
-DTEND:20261106T200000Z
-DTSTAMP:20261102T104432Z
-UID:sportsbot-504b2586d994dd36fd950365dc8e47b3@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Autódromo José Carlos Pace\, S
- ão Paulo\, Brazil
-LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+SUMMARY:MTU_BASKETBALL: Michigan Tech at Roosevelt
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+DTSTAMP:20261110T082905Z
+UID:sportsbot-751258ebb635f004167f70f27b5d0537@github-actions
+DESCRIPTION:Watch: Michigan Tech Huskies Mens Basketball\n
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Brazilian Grand Prix – FP2
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: F1 Brazilian Grand Prix – FP3
-DTSTART:20261107T143000Z
-DTEND:20261107T153000Z
-DTSTAMP:20261102T104432Z
-UID:sportsbot-7237253f7cbba18380dfb6a777c42710@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Autódromo José Carlos Pace\, S
- ão Paulo\, Brazil
-LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Brazilian Grand Prix – FP3
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: F1 Brazilian Grand Prix – Qualifying
-DTSTART:20261107T180000Z
-DTEND:20261107T190000Z
-DTSTAMP:20261102T104432Z
-UID:sportsbot-1ce2e0daec14023ae8a3f4b9523b4eff@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Autódromo José Carlos Pace\, S
- ão Paulo\, Brazil
-LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Brazilian Grand Prix – Qualifying
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: F1 Brazilian Grand Prix – Race
-DTSTART:20261108T170000Z
-DTEND:20261108T190000Z
-DTSTAMP:20261102T104432Z
-UID:sportsbot-f720d4ffffc965d9f8699cdc07c0c306@github-actions
-DESCRIPTION:Watch: F1 2026 Season\nVenue: Autódromo José Carlos Pace\, S
- ão Paulo\, Brazil
-LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Starting soon: F1 Brazilian Grand Prix – Race
+DESCRIPTION:Starting soon: Michigan Tech at Roosevelt
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -978,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Las Vegas Grand Prix – FP1
 DTSTART:20261120T003000Z
 DTEND:20261120T013000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-a1f7fce5ef4e8c0b70fe2f3f0dcb6743@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Las Vegas Strip Street Circuit\,
   Las Vegas\, USA
@@ -993,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Las Vegas Grand Prix – FP2
 DTSTART:20261120T040000Z
 DTEND:20261120T050000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-4ffdbef588e1e452e83a2dd1ecb5bf85@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Las Vegas Strip Street Circuit\,
   Las Vegas\, USA
@@ -1008,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Las Vegas Grand Prix – FP3
 DTSTART:20261121T003000Z
 DTEND:20261121T013000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-1e157475f4bdd644c1fd7e5ab4399ceb@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Las Vegas Strip Street Circuit\,
   Las Vegas\, USA
@@ -1023,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Las Vegas Grand Prix – Qualifying
 DTSTART:20261121T040000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-961514278506ef10a84d31d11617cc3f@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Las Vegas Strip Street Circuit\,
   Las Vegas\, USA
@@ -1038,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Las Vegas Grand Prix – Race
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-dfa777c731ee87b22dfe89c36f8d16f8@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Las Vegas Strip Street Circuit\,
   Las Vegas\, USA
@@ -1053,7 +1017,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Qatar Grand Prix – FP1
 DTSTART:20261127T133000Z
 DTEND:20261127T143000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-4222c1f886f2582fbdae51c68cd97993@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Lusail International Circuit\, L
  usail\, Qatar
@@ -1068,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Qatar Grand Prix – FP2
 DTSTART:20261127T170000Z
 DTEND:20261127T180000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-4a2940955a3fdd0c4052dc728efab187@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Lusail International Circuit\, L
  usail\, Qatar
@@ -1083,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Qatar Grand Prix – FP3
 DTSTART:20261128T143000Z
 DTEND:20261128T153000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-6e1b73ab70dc27cdbe74c8a23297db8c@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Lusail International Circuit\, L
  usail\, Qatar
@@ -1098,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Qatar Grand Prix – Qualifying
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-e1ef024eb354faf3d8cbc851675f8332@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Lusail International Circuit\, L
  usail\, Qatar
@@ -1113,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:F1: F1 Qatar Grand Prix – Race
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
-DTSTAMP:20261102T104432Z
+DTSTAMP:20261110T082907Z
 UID:sportsbot-818c8a0ac0114607993289b072613caa@github-actions
 DESCRIPTION:Watch: F1 2026 Season\nVenue: Lusail International Circuit\, L
  usail\, Qatar
@@ -1121,6 +1085,81 @@ LOCATION:Lusail International Circuit\, Lusail\, Qatar
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Starting soon: F1 Qatar Grand Prix – Race
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: F1 Abu Dhabi Grand Prix – FP1
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+DTSTAMP:20261110T082907Z
+UID:sportsbot-ef37cc0e40fa9bf9f97b72602ad4b902@github-actions
+DESCRIPTION:Watch: F1 2026 Season\nVenue: Yas Marina Circuit\, Abu Dhabi\,
+  UAE
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: F1 Abu Dhabi Grand Prix – FP1
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: F1 Abu Dhabi Grand Prix – FP2
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+DTSTAMP:20261110T082907Z
+UID:sportsbot-15571dd1f6d22fe5195dc2b9bcaa6f80@github-actions
+DESCRIPTION:Watch: F1 2026 Season\nVenue: Yas Marina Circuit\, Abu Dhabi\,
+  UAE
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: F1 Abu Dhabi Grand Prix – FP2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: F1 Abu Dhabi Grand Prix – FP3
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+DTSTAMP:20261110T082907Z
+UID:sportsbot-0eb49e519abc290fda71e2d588eeb6c5@github-actions
+DESCRIPTION:Watch: F1 2026 Season\nVenue: Yas Marina Circuit\, Abu Dhabi\,
+  UAE
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: F1 Abu Dhabi Grand Prix – FP3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: F1 Abu Dhabi Grand Prix – Qualifying
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+DTSTAMP:20261110T082907Z
+UID:sportsbot-33a15824646569cbe9a1857264d83f86@github-actions
+DESCRIPTION:Watch: F1 2026 Season\nVenue: Yas Marina Circuit\, Abu Dhabi\,
+  UAE
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: F1 Abu Dhabi Grand Prix – Qualifying
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: F1 Abu Dhabi Grand Prix – Race
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+DTSTAMP:20261110T082907Z
+UID:sportsbot-f2cff21859386cf9e34f6ebe363835d3@github-actions
+DESCRIPTION:Watch: F1 2026 Season\nVenue: Yas Marina Circuit\, Abu Dhabi\,
+  UAE
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starting soon: F1 Abu Dhabi Grand Prix – Race
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
